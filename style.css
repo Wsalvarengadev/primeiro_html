@@ -1,0 +1,25 @@
+header {
+    border: solid black 5px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+span {
+    font-size: 40px;
+    font-weight: bold;
+}
+nav {
+    padding: 10;
+    text-align:end;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%
+}
+body {
+    background-color: lightblue;
+}
+
+.trademark {
+    font-size: 20px;
+}
